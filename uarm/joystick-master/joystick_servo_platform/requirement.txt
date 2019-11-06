@@ -1,0 +1,4 @@
+# sdl2 python bindings is needed for accessing the joystick and creating simple GUI
+pysdl2
+# serial operation
+pyserial
